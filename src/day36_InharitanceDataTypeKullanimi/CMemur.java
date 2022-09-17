@@ -1,6 +1,6 @@
 package day36_InharitanceDataTypeKullanimi;
 
-public class CMemur extends BMuhasebe{
+public class   CMemur extends BMuhasebe{
     int saatUcreti=12;
     int gunlukMesai=9;
 
